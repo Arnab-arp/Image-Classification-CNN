@@ -11,7 +11,7 @@ This repository contains an implementation of a Convolutional Neural Network (CN
 ## Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/image-classification-cnn.git
+   git clone https://github.com/Arnab-arp/Image-Classification-CNN.git
    cd image-classification-cnn
    pip install -r requirements.txt
    ```
